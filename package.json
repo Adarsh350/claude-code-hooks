@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-hooks",
+  "version": "1.0.0",
+  "description": "PreToolUse and Stop hooks for Claude Code: secret-write guard, verification gate, context nudge",
+  "type": "module",
+  "license": "MIT",
+  "author": "Adarsh Shankar",
+  "scripts": {
+    "test": "node --test test/hooks.test.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
